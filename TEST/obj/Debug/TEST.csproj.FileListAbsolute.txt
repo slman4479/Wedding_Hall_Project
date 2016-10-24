@@ -1,0 +1,4 @@
+E:\LS\499\Firsttest\TEST\bin\TEST.dll
+E:\LS\499\Firsttest\TEST\bin\TEST.pdb
+E:\LS\499\Firsttest\TEST\obj\Debug\TEST.dll
+E:\LS\499\Firsttest\TEST\obj\Debug\TEST.pdb
